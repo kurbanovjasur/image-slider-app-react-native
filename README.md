@@ -1,4 +1,4 @@
 # ImageSliderApp
-Simple ImageSliderApp in React Native
+ImageSliderApp in React Native
 
-![ImageSliderApp HomePage](https://ibb.co/61RPN3q)
+![ImageSliderApp HomePage](https://i.ibb.co/z7hRNyt/photo-2020-01-14-16-58-07.jpg)
